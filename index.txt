@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome to
+=======
+hello ~~~beijing~!!!
+>>>>>>> dev
